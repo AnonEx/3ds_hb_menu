@@ -9,7 +9,7 @@
 
 #define BGCOLOR (u8[]){0, 132, 255}
 
-#define BUBBLE_COUNT 15
+#define BUBBLE_COUNT 20
 
 typedef struct
 {
